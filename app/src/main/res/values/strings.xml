@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Name checker</string>
+    <string name="logo_text">NAME CHECKER</string>
+    <string name="input_hint">Введите имя</string>
+    <string name="btn_text">CHECK</string>
+    <string name="no_input">Нужно ввести какое-то имя!</string>
+    <string name="url_exeption">Ошибка URL</string>
+    <string name="no_connection">Сбой соединения</string>
+    <string name="no_json">Неверный формат результата</string>
+
+</resources>
